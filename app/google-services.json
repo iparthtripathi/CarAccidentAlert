@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794628258763",
+    "firebase_url": "https://flutter-iot-vp-default-rtdb.firebaseio.com",
+    "project_id": "flutter-iot-vp",
+    "storage_bucket": "flutter-iot-vp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794628258763:android:2b3a025764cb84d8cb544e",
+        "android_client_info": {
+          "package_name": "com.parth.accidentalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794628258763-s4kh5a7udark6h36u2ho8h6ur5rsflm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCimnVFuBYlRdj-C0iZ0zkShC369RZQrGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794628258763-s4kh5a7udark6h36u2ho8h6ur5rsflm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
